@@ -1,0 +1,10 @@
+0zero
+1um
+2dois
+3tres
+4quatro
+5cinco
+6seis
+7sete
+8oito
+9nove
